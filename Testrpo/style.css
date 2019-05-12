@@ -3,7 +3,7 @@
 	}
 	html{
 		background-color: #f4f4f4;
-		height: 3000px;
+		
 
 		}
 	#main-header{
@@ -99,39 +99,55 @@
 	}
 	#big-pic h1{
 		color: white;
-		display: flex;
+		justify-content: center;
 		
 	}
-	
+	.main-te p{
+		font-family: comic sans ms;
+		padding: 5px;
+	}
+	.main-te h2{
+		margin-right: 70%;
+		background-color:#ffe8aa;
+		padding: 5px;
+		margin-top: 7px;
+		margin-bottom: 7px;
+		border-right: 5px solid #fff;
+		padding-right:25px; 
+	}
+	#big-pic2{
+		height: 300px;
+		padding: 20px;
+		background-image: url(images/pubgpcbanner.jpg);
+	}
+	#des{
+		margin-right:60%;
+		background-color: #a5efdf;
+		border-bottom: 3px solid #fff;
+		border-right: 3px solid #fff;
+	}
+	#ma-tec{
+		background-color:#fff6a4;
+		border: 1px solid #fff496;
+		margin-bottom: 10px;
+	}
+	#s-text{
+		background-color:#ffc;
+		margin-right: 70%;
+		margin-bottom: 2px;
+		margin-top: 2px;
+		border-right: 1px solid #96ffb9;
+		border-bottom: 1px solid #96ffb9;
+		
+	}
+	.footer{
+		text-align:center;
+		padding: 50px;
+		background-color: #ddd;
+		font-family:Sans; 
+	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media  (max-width:200px){
+@media  (max-width:700px){
 	#nav-bar,.changlog{
 		flex-direction: column;
 	}
