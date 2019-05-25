@@ -147,7 +147,7 @@
 		font-family:Sans; 
 	}
 
-@media  (max-width:700px){
+@media  (max-width:900px){
 	#nav-bar,.changlog{
 		flex-direction: column;
 	}
