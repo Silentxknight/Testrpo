@@ -9,7 +9,7 @@
 	#main-header{
 		background-color:#4286f4;
 		color: #fff;
-		font-family: comic sans ms;
+		font-family: 'Open Sans', sans-serif;
 		font-size: 20px; 
 		height: 200px;
 		text-align: center;
@@ -103,7 +103,7 @@
 		
 	}
 	.main-te p{
-		font-family: comic sans ms;
+		font-family: 'Open Sans', sans-serif;
 		padding: 5px;
 	}
 	.main-te h2{
